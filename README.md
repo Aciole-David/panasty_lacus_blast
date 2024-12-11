@@ -11,7 +11,7 @@ https://hub.docker.com/r/davidaciole/panasty_lacus_blast
 
 and a web app is available at shinyapps.io:
 
-https://aciole-d.shinyapps.io/shiny_blast/
+https://aciole-d.shinyapps.io/astypan-blast/
 
 <br/>
 
