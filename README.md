@@ -1,5 +1,5 @@
 # panasty_lacus_blast
-Dockerized shiny blast server for _Astyanax lacustris_ pantranscriptome (Aciole Barbosa et a., 2024)
+Dockerized shiny blast server for _Astyanax lacustris_ pantranscriptome (Aciole Barbosa et al., 2024)
 
 <br/>
 
